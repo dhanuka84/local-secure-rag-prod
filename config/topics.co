@@ -1,0 +1,1 @@
+define user ask off-topic\n  "ask about politics"\n  "ask about finance"\n  "tell me about stock prices"\n\ndefine bot refuse to answer\n  "I cannot answer questions about that topic."\n\ndefine flow\n  user ask off-topic\n  bot refuse to answer\n

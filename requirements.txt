@@ -1,0 +1,16 @@
+langchain>=0.2.16
+langchain-community>=0.2.16
+langchain-ollama>=1.0.0
+qdrant-client>=1.10.0
+rank-bm25>=0.2.2
+redis>=5
+sentence-transformers>=3
+presidio-analyzer>=2.2.355
+presidio-anonymizer>=2.2.355
+requests>=2
+cerbos>=0.8.0
+tiktoken>=0.7.0
+spacy>=3.8.0
+# large English model (used by Presidio and text processing)
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl
+

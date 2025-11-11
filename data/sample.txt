@@ -1,0 +1,1 @@
+[public] RAG helps LLMs answer questions using your own document collections.\n[confidential] The quarterly salary band adjustments are internal only.\nDocument type: contract\nYear: 2023\nTenant: demo\n
